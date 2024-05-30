@@ -42,3 +42,8 @@ Flutter ile geliştirilmiş, Firebase destekli, modern ve kullanıcı dostu bir 
 - http
 - carousel_slider
 - cached_network_image
+  
+## Ekran Görüntüleri 
+[  -  https://github.com/beklevicRidvan/Flutter-Firebase-E-Commerce-AdminPanel/assets/162339153/3451dad5-caf4-427e-8b7c-2eb2a3931de8
+](https://github.com/beklevicRidvan/Flutter-Firebase-E-Commerce-AdminPanel/assets/162339153/3451dad5-caf4-427e-8b7c-2eb2a3931de8
+)
